@@ -1,0 +1,77 @@
+BODY {
+  color: #45688E;
+  margin-top:0px;
+  margin-left:0px;
+}
+
+Input{
+  color: #45688E;
+
+}
+
+table{
+  width:100%;
+  margin-top:0px;
+  margin-left:0px;
+}
+
+textarea{
+  color: #45688E;
+  width:98%;
+  margin-top:0px;
+  margin-left:0px;
+}
+
+
+
+.body {
+  background-color:#f7f7f7;
+  text-align:left;
+  border: 3px solid rgb(192, 203, 213);
+  width:601px;
+  height:490px;
+}
+
+.notice {
+  text-align:center;
+  background-color: white;
+  padding: 1px 3px;
+  border-bottom: 1px solid rgb(192, 203, 213);
+  line-height: 10px;
+}
+
+.notice h1 {
+  font-size: 25px;
+  padding-bottom: 0px; }
+
+.header {
+  cursor: pointer;
+  text-align:center;
+  background: #DAE2E8;
+  border-bottom: 1px solid rgb(192, 203, 213);
+  padding: 1px 3px;
+}
+
+a.button{
+width:95%;
+	background:#4B769F url(/images/flatBtnTopActive.gif) repeat-x scroll 0 0;
+	border:1px solid #2B587A;
+	color:#FFFFFF;
+	display:block;
+	line-height:100%;
+	padding:5px 10px 6px;
+	text-align:center;
+	text-decoration:none;
+	white-space:nowrap;
+}
+
+a.button:hover{
+width:95%;
+	background-color:#678BAE;
+	text-decoration:none;
+	border:1px solid #3B688A;
+}
+
+
+
+
